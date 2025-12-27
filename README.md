@@ -1,16 +1,53 @@
-# nos
+# 💙 NÓS
 
-A new Flutter project.
+**NÓS** é um aplicativo desenvolvido em **Flutter** para ajudar casais a organizarem, registrarem e sonharem juntos.
 
-## Getting Started
+O app nasce com o objetivo de guardar tradições, acompanhar o tempo juntos, planejar o futuro e fortalecer a caminhada a dois — tudo em um só lugar.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📚 Tradições
+Organize as tradições do casal por categorias:
+- Familiar
+- Religiosa
+- Oral
+- Material
+- Festiva
+- Culinária
+- Artística
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cada categoria possui sua própria lista de tradições, salvas localmente no dispositivo.
+
+---
+
+### 📅 Dias com meu amor *(em breve)*
+Acompanhe datas importantes, aniversários, momentos especiais e o tempo juntos.
+
+---
+
+### 🎯 Nossos planos e metas *(em breve)*
+Registre sonhos, objetivos e metas do casal, com acompanhamento ao longo do tempo.
+
+---
+
+### 📍 Lugares para conhecermos *(em breve)*
+Lista de lugares que o casal deseja visitar, com ideias e inspirações.
+
+---
+
+### 💍 Planejamento *(Premium – futuro)*
+Planejamento de casamento, enxoval e casa nova, tudo organizado em um só lugar.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **Flutter**
+- **Dart**
+- **SharedPreferences** (persistência local)
+- **Material 3**
+- Arquitetura organizada por *features*
+
+---
